@@ -1,4 +1,4 @@
-# Teste-rocky
+# Projeto - FRONTENDMENTOR.IO
 
 Projeto feito para testar novos aprendizados e praticar boas práticas.
 
